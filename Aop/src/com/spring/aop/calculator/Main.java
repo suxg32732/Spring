@@ -12,6 +12,7 @@ public class Main {
 		int res = calculator.add(1, 2); 
 		System.out.println(res);
 		((ConfigurableApplicationContext) ctx).close();
+		
 	}
 
 }
